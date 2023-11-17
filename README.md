@@ -1,2 +1,3 @@
-## README.md
-This is Winnie Mei's personal website
+## Welcome to Winnie Mei's personal website
+
+Link to website: 
